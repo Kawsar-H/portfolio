@@ -1,0 +1,10 @@
+.blogs-container{
+    padding:100px 10px;
+    background:#e5e0ecf6;
+}
+.blog-section-title{
+    color:#11c811;
+    text-align: center;
+    font-family: 'Averia Serif Libre', cursive;
+    margin-bottom:50px;
+}

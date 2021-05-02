@@ -1,0 +1,11 @@
+.projects-container{
+    padding:100px 10px;
+    background:#46398df6;
+    margin-top: 100px;
+}
+.project-section-title{
+    color:#22e6b8;
+    text-align: center;
+    font-family: 'Averia Serif Libre', cursive;
+    margin-bottom:50px;
+}
